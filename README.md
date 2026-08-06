@@ -11,4 +11,5 @@
 
 [Firecrawl with curl](https://www.firecrawl.dev/blog/curl-web-scraping)
 
+[Hermes Agent 保姆級教學](https://www.youtube.com/watch?v=-EivK7vpOXY)
 
