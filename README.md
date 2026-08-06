@@ -9,4 +9,6 @@
 [STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking](https://github.com/stanford-oval/storm)
 
 
+[Firecrawl with curl](https://www.firecrawl.dev/blog/curl-web-scraping)
+
 
