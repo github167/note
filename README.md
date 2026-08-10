@@ -13,3 +13,5 @@
 
 [Hermes Agent 保姆級教學](https://www.youtube.com/watch?v=-EivK7vpOXY)
 
+[Ternlight - model with -1, 0 and +1, maybe good for doc search](https://github.com/soycaporal/ternlight/)
+
