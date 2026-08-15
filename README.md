@@ -23,4 +23,4 @@
 [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - generate office document without MS Office
 
 
-[倪海厦Skill · 经方中医AI](https://github.com/jangviktor-web/nihaixia)
+[倪海厦Skill · 经方中医AI](https://github.com/jangviktor-web/nihaixia)[女媧](https://github.com/alchaincyf/nuwa-skill)[同事](https://github.com/titanwings/colleague-skill)
