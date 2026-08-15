@@ -20,3 +20,5 @@
 [World Monitor](https://github.com/koala73/worldmonitor/)
 
 [i-have-adhd](https://github.com/ayghri/i-have-adhd)
+
+[OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - generate office document without MS Office
