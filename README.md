@@ -8,6 +8,8 @@
 
 [STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking](https://github.com/stanford-oval/storm)
 
+[倪海厦Skill · 经方中医AI](https://github.com/jangviktor-web/nihaixia)
+
 
 [Firecrawl with curl](https://www.firecrawl.dev/blog/curl-web-scraping)
 
