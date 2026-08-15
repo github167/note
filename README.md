@@ -8,9 +8,6 @@
 
 [STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking](https://github.com/stanford-oval/storm)
 
-[倪海厦Skill · 经方中医AI](https://github.com/jangviktor-web/nihaixia)
-
-
 [Firecrawl with curl](https://www.firecrawl.dev/blog/curl-web-scraping)
 
 [Hermes Agent 保姆級教學](https://www.youtube.com/watch?v=-EivK7vpOXY)
@@ -24,3 +21,6 @@
 [i-have-adhd](https://github.com/ayghri/i-have-adhd)
 
 [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - generate office document without MS Office
+
+
+[倪海厦Skill · 经方中医AI](https://github.com/jangviktor-web/nihaixia)
