@@ -24,6 +24,11 @@
 
 [268 experts: agency-agents](https://github.com/jnMetaCode/agency-agents-zh)
 
-[倪海厦Skill · 经方中医AI](https://github.com/jangviktor-web/nihaixia)
+# TCM Skill
+
+[倪海厦](https://github.com/jangviktor-web/nihaixia)
+[李可](https://github.com/jangviktor-web/likeskill)
+[胡希恕](https://github.com/jangviktor-web/huxishu)
+[吴鞠通](https://github.com/jangviktor-web/wujutong)
 [女媧](https://github.com/alchaincyf/nuwa-skill)
 [同事](https://github.com/titanwings/colleague-skill)
