@@ -30,5 +30,6 @@
 [李可](https://github.com/jangviktor-web/likeskill)
 [胡希恕](https://github.com/jangviktor-web/huxishu)
 [吴鞠通](https://github.com/jangviktor-web/wujutong)
+[黄元御](https://github.com/jangviktor-web/huangyuanyu)
 [女媧](https://github.com/alchaincyf/nuwa-skill)
 [同事](https://github.com/titanwings/colleague-skill)
