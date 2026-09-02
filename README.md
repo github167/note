@@ -24,6 +24,8 @@
 
 [268 experts: agency-agents](https://github.com/jnMetaCode/agency-agents-zh)
 
+[eli5](https://github.com/dreambigou/eli5)
+
 # TCM Skill
 
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
