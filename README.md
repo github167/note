@@ -28,6 +28,8 @@
 
 [Female Portrait Director](https://github.com/liyue-aigc/female-portrait-director)
 
+[personal-ip-image-pack](https://github.com/DoraRabbitYan/personal-ip-image-pack)
+
 # TCM Skill
 
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
