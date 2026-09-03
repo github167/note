@@ -26,6 +26,8 @@
 
 [eli5](https://github.com/dreambigou/eli5)
 
+[Female Portrait Director](https://github.com/liyue-aigc/female-portrait-director)
+
 # TCM Skill
 
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
