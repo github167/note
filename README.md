@@ -37,6 +37,8 @@
 [微信公众号爆款AI选题Skill](https://github.com/BigPengSays/bigpeng-hot-gzh)
 [卡兹克写作](https://github.com/KKKKhazix/khazix-skills#-khazix-writer%E5%8D%A1%E5%85%B9%E5%85%8B%E5%86%99%E4%BD%9C)
 
+[大量人物 skill](https://github.com/nuwa-skills/awesome-nuwa)
+
 # TCM Skill
 
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
