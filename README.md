@@ -39,7 +39,7 @@
 
 [大量人物 skill](https://github.com/nuwa-skills/awesome-nuwa)
 
-# TCM Skill
+# Traditional Chinese Medicine Skill
 
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
 [李可](https://github.com/jangviktor-web/likeskill)
