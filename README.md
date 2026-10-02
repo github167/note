@@ -39,6 +39,7 @@
 
 [大量人物 skill](https://github.com/nuwa-skills/awesome-nuwa)
 
+[去 ai 化](https://github.com/kevintsai1202/Humanizer-zh-TW)
 # Traditional Chinese Medicine Skill
 
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
