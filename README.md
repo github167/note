@@ -40,6 +40,9 @@
 [大量人物 skill](https://github.com/nuwa-skills/awesome-nuwa)
 
 [去 ai 化](https://github.com/kevintsai1202/Humanizer-zh-TW)
+
+[寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
+
 # Traditional Chinese Medicine Skill
 
 [寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
