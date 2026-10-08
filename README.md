@@ -42,6 +42,7 @@
 [去 ai 化](https://github.com/kevintsai1202/Humanizer-zh-TW)
 # Traditional Chinese Medicine Skill
 
+[寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
 [倪海厦](https://github.com/jangviktor-web/nihaixia)
 [李可](https://github.com/jangviktor-web/likeskill)
 [胡希恕](https://github.com/jangviktor-web/huxishu)
