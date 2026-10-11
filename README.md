@@ -43,6 +43,8 @@
 
 [寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
 
+[asd-ste100](https://github.com/danyuchn/asd-ste100-skill)
+
 # Traditional Chinese Medicine Skill
 
 [寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
