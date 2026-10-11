@@ -45,6 +45,8 @@
 
 [asd-ste100](https://github.com/danyuchn/asd-ste100-skill)
 
+[Lieflat Less AI Tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)
+
 # Traditional Chinese Medicine Skill
 
 [寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
