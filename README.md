@@ -47,6 +47,8 @@
 
 [Lieflat Less AI Tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)
 
+[ai-health-steward](https://github.com/wangzhengpengjay/AI-Health-Steward)
+
 # Traditional Chinese Medicine Skill
 
 [寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
