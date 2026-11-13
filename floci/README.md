@@ -453,6 +453,9 @@ EOF
 
 aws s3 website s3://my-local-site/ --index-document index.html
 curl http://localhost:4566/my-local-site/index.html
+
+```
+```
 aws s3api delete-bucket-website --bucket my-local-site
 aws s3 rb s3://my-local-site --force
 
