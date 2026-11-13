@@ -440,4 +440,20 @@ aws lambda delete-function --function-name MyLocalLambda
 aws dynamodb delete-table --table-name Staff > /dev/null
 
 ```
+7. S3 + website
+```
+aws s3 mb s3://my-local-site
+aws s3 cp - s3://my-local-site/index.html --content-type "text/html" << 'EOF'
+<!DOCTYPE html>
+<html>
+  <head><title>Home</title></head>
+  <body><h1>Hello from S3!</h1></body>
+</html>
+EOF
 
+aws s3 website s3://my-local-site/ --index-document index.html
+curl http://localhost:4566/my-local-site/index.html
+aws s3api delete-bucket-website --bucket my-local-site
+aws s3 rb s3://my-local-site --force
+
+```
