@@ -49,6 +49,8 @@
 
 [ai-health-steward](https://github.com/wangzhengpengjay/AI-Health-Steward)
 
+[行测真题](https://github.com/ERRRC/xingcezhenti)
+
 # Traditional Chinese Medicine Skill
 
 [寫小說](https://github.com/PenglongHuang/chinese-novelist-skill)
